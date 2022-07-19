@@ -1,0 +1,84 @@
+{
+    "anime":[
+    {
+        "ni": "1",
+        "titulo": "Mushoku Tensei",
+        "genero": "fantasia",
+        "capitulos": 23,
+        "anio": 2021,
+        "acabado": "no"
+    },
+    {
+        "ni": "2",
+        "titulo": "Fullmetal Alchimist: Brotherhood",
+        "genero": "fantasia",
+        "capitulos": 64,
+        "anio": 2009,
+        "acabado": "si"
+    },
+    {
+        "ni": "3",
+        "titulo": "One Piece",
+        "genero": "aventura",
+        "capitulos": 1000,
+        "anio": 1997,
+        "acabado": "no"
+    },
+    {
+        "ni": "4",
+        "titulo": "Toradora!",
+        "genero": "romance",
+        "capitulos": 26,
+        "anio": 2008,
+        "acabado": "si"
+    },
+    {
+        "ni": "5",
+        "titulo": "Kaguya-sama",
+        "genero": "romance",
+        "capitulos": 36,
+        "anio": 2021,
+        "acabado": "no"
+    },
+    {
+        "ni": "6",
+        "titulo": "HunterXHunter",
+        "genero": "aventura",
+        "capitulos": 140,
+        "anio": 2011,
+        "acabado": "si"
+    },
+    {
+        "id": 7,
+        "titulo": "Assessination Classroom",
+        "genero": "Comedia",
+        "capitulos": 40,
+        "anio": 2021,
+        "acabado": "si"
+    },
+    {
+        "id": 8,
+        "nombre": "My hero Academia",
+        "genero": "aventura",
+        "capitulos": 70,
+        "anio": 2021,
+        "acabado": "no"
+    },
+    {
+        "id": 9,
+        "nombre": "Konosuba",
+        "genero": "Comedia",
+        "capitulos": 36,
+        "anio": 2021,
+        "acabado": "no"
+    },
+    {
+        "id": 10,
+        "nombre": "Ousama Ranking",
+        "genero": "aventura",
+        "capitulos": 24,
+        "anio": 2021,
+        "acabado": "si"
+    }
+]
+}
